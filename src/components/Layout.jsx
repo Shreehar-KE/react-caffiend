@@ -19,7 +19,7 @@ export default function Layout(props) {
     <footer>
       <p>
         <span className="text-gradient">Caffiend</span> was made by <a target="_blank" href="https://shreehar-ke.github.io/">Shreehar KE</a>
-        <br />Check out the project on <a target="_black" href="https://github.com/Shreehar-KE/react-caffiend">GitHub</a>!</p>
+        <br />Check out the project on <a target="_black" href="https://github.com/Shreehar-KE/react-firebase-coffee-tracker">GitHub</a>!</p>
     </footer>
   )
 

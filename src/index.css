@@ -159,6 +159,7 @@ h2 {
 }
 
 .coffee-button-selected {
+  border-width: 2px !important; 
   border-color: var(--border-highlight) !important;
 }
 

@@ -1,6 +1,6 @@
 ## A React web app for tracking daily coffee consumption with Firebase authentication and Firestore real-time database.
 
-## Tech Stack
+### Tech Stack
 
 - JavaScript
 - React
